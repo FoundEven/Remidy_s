@@ -6,11 +6,11 @@ export const GET_USERS = gql`
       _id
       email
       firstName
-      lastName
       shoppingCart {
         _id
         category
         itemDescription
+        itemRegion
         itemName
         price
         image
@@ -33,6 +33,7 @@ export const GET_ITEMS = gql`
       _id
       itemName
       itemDescription
+      itemRegion
       category
       price
       image
@@ -46,6 +47,7 @@ export const GET_ONE_ITEM = gql`
       _id
       category
       itemDescription
+      itemRegion
       itemName
       price
       image

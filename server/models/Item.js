@@ -13,7 +13,6 @@ const itemSchema = new Schema({
   },
   itemRegion: {
     type: String,
-    required: true,
   },
   category: {
     type: Array,

@@ -8,7 +8,6 @@ export const LOGIN_USER = gql`
         _id
         email
         firstName
-        lastName
         shoppingCart
       }
     }
@@ -16,24 +15,13 @@ export const LOGIN_USER = gql`
 `;
 
 export const ADD_USER = gql`
-  mutation AddUser(
-    $firstName: String!
-    $lastName: String!
-    $email: String!
-    $password: String!
-  ) {
-    addUser(
-      firstName: $firstName
-      lastName: $lastName
-      email: $email
-      password: $password
-    ) {
+  mutation AddUser($firstName: String!, $email: String!, $password: String!) {
+    addUser(firstName: $firstName, email: $email, password: $password) {
       token
       user {
         _id
         email
         firstName
-        lastName
         shoppingCart
       }
     }
@@ -45,7 +33,6 @@ export const ADD_TO_CART = gql`
     addCart(_id: $id) {
       _id
       firstName
-      lastName
       email
       shoppingCart
     }
@@ -57,7 +44,6 @@ export const REMOVE_FROM_CART = gql`
     removeFromCart(_id: $id, itemID: $itemId) {
       _id
       firstName
-      lastName
       email
       shoppingCart
     }

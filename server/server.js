@@ -7,6 +7,11 @@ const { authMiddleware } = require("./utils/auth");
 const { typeDefs, resolvers } = require("./schemas");
 const db = require("./config/connection");
 
+//Handles uncaught exceptions
+process.on("uncaughtException", function (err) {
+  console.log(err);
+});
+
 const PORT = process.env.PORT || 3001;
 const app = express();
 const server = new ApolloServer({

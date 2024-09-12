@@ -7,11 +7,12 @@ const Header = ({ onToggleModal, onToggleNav, onToggleCart }) => {
   };
 
   return (
-    <header className="flex justify-between px-10 py-4 bg-cyan-500">
+    <header className="flex justify-between px-10 py-4 bg-emerald-100">
       <button onClick={onToggleNav} className="lg:hidden">
         <i className="fa-solid fa-bars text-3xl text-white hover:text-cyan-800 duration-200"></i>
       </button>
-      <h1 className="text-3xl text-white font-bold">Hobby Shop</h1>
+      <h1 className="text-3xl text-zinc-950 font-bold ">Remedys</h1>
+      <h1 className="text-white font-bold">skincare</h1>
       <div>
         {Auth.loggedIn() ? (
           <>

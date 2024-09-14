@@ -1,219 +1,138 @@
 [
   {
-    "itemName": "One Punch Man Comic",
-    "itemDescription": "One Punch Man is an action packed comic about Saitama defeating villians in one punch.",
-    "category": ["comics"],
-    "price": "40.00",
-    "image": "/assets/images/one_punch_man.jpg"
+    "itemName": "Day Treatment",
+    "itemDescription": "This powerfully skin boosting cream will both nourish and reactivate your facial skin. Packed with organically derived anti-oxidants from Icelandic seaweed, organic vegetables and organic herbs together with liposomal co-enzymes, this luxurious emulsion will boost the energy of the dermal cells and support and stimulate healthy metabolic activity of the skin. The outcome is immensely satisfying, an elastic radiant skin, perfectly balanced with a love-to-touch texture. The Day Treatment was awarded a bronze prize as the Best Moisturizer in the UK Global Makeup Awards 2021.",
+    "itemRegion": "Iceland",
+    "category": ["skincare"],
+    "price": "129.00",
+    "image": "/assets/images/Day_treatment.jpg"
   },
   {
-    "itemName": "Monopoly",
-    "itemDescription": "Do you love capitalism? Do you like ruining your friendships? Well, this game is for you.",
-    "category": ["board-games"],
-    "price": "30.00",
-    "image": "/assets/images/monopoly.jpg"
+    "itemName": "Purifying Treatment",
+    "itemDescription": "So much more than simply a cleansing medium! Results of Live tests on women by independent laboratories have revealed astonishing changes reflected in greater radiance, mild detoxification and firmer, hydrated skin with a beautiful color. This product is a clear example of how we can bring out glow and pureness with skin-actives from marine plants of the Atlantic Ocean. Your skin will love this delicate oil blend which is suitable for all skin types, especially sensitive skin. The purifying Treatment was awarded a Silver from Global Makeup Awards 2020.",
+    "itemRegion": "Iceland",
+    "category": ["skincare"],
+    "price": "79.00",
+    "image": "/assets/images/Purifying.webp"
   },
   {
-    "itemName": "Pokemon FireRed",
-    "itemDescription": "An epic Pokemon journy awaits. In Pokemon FireRed you explore the Kanto region with your Pokemon.",
-    "category": ["video-games", "featured"],
-    "price": "60.00",
-    "image": "/assets/images/pokemon_red.jpg"
+    "itemName": "The Eye Treatment",
+    "itemDescription": "The TARAMAR Eye Treatment combines sustainable harvested Icelandic seaweed extract (the ArcticComplex™) with handpicked Arctic herbs in an astonishingly effective skin lifting formula that nourishes supports and works against sagging skin, bags and dark circles in the Eye region. It has an impressive ability to tighten sagging skin, both on the upper eye lids, as well as in other facial and neck areas. Apply a drop to the area around the eyes, both below and above, including the eyelids. Use once a day.",
+    "itemRegion": "Iceland",
+    "category": ["skincare"],
+    "price": "133.00",
+    "image": "/assets/images/Eye.webp"
   },
   {
-    "itemName": "Psyduck Plushie",
-    "itemDescription": "A soft, squshy, and adorable plushie of the Pokemon Psyduck.",
-    "category": ["plushies", "featured"],
-    "price": "45.00",
-    "image": "/assets/images/psyduck_plushie.jpg"
+    "itemName": "Night Treatment",
+    "itemDescription": "This delightfully light, but infinitely luxurious, cream immerses your skin in soothing hydration, softening, smoothing and revitalizing as you sleep. The gentle actives of this cream work to reconnect your skin’s layers and boost collagen synthesis to unlock true transformation. The result is skin that is even, smooth and radiantly beautiful.",
+    "itemRegion": "Iceland",
+    "category": ["skincare"],
+    "price": "137.00",
+    "image": "/assets/images/Night.webp"
   },
   {
-    "itemName": "One Piece Comic",
-    "itemDescription": "Travel with Luffy and his pirate crew to be the king of the pirates.",
-    "category": ["comics"],
-    "price": "40.00",
-    "image": "/assets/images/one_piece.jpg"
+    "itemName": "The Serum",
+    "itemDescription": "The Serum has brought joy to so many TARAMAR lovers. It repairs, reshapes and restore the skin, while luxuriously combating environmental elements. The Serum’s powerful Icelandic seaweed extracts, organically-grown viola tricolor and ingenious peptides with hyaluronic acid, revitalize and penetrate deep into dull, dry, aging skin to dramatically enhance collagen production, beautifully hydrate and restore skin radiance and suppleness.",
+    "itemRegion": "Iceland",    
+    "category": ["skincare"],
+    "price": "117.00",
+    "image": "/assets/images/Serum.webp"
   },
   {
-    "itemName": "Mouse Trap",
-    "itemDescription": "A fun board game were you set up a rube goldberg machine in the middle of the board and watch the machine once.",
-    "category": ["board-games"],
-    "price": "25.00",
-    "image": "/assets/images/mouse_trap.jpg"
+    "itemName": "Artic Flower Treatment",
+    "itemDescription": "Hydrate, rebuild and increase collagen in the sensitive region around mouth and eyes. Use the amazing skin-actives of the Arctic Flower Treatment to diminish lipstick lines and combat wrinkles and fine lines. The Arctic Flower Treatment can also help to achieve balance in your skin. Whether you are dealing with rosacea or just want to maintain a healthy glow, this Serum can help. With potent skin-actives from the Icelandic herbs, the serum can soothe and restore the skin while providing essential nutrients for long-term health. With regular use, many TARAMAR users enjoy a balanced complexion that is free of redness and irritation.",
+    "itemRegion": "Iceland",
+    "category": ["skincare"],
+    "price": "117.00",
+    "image": "/assets/images/Artic.webp"
   },
   {
-    "itemName": "Maloch Cometh",
-    "itemDescription": "A text based escape game about escaping an evil wizard's tower.",
-    "category": ["video-games"],
-    "price": "30.00",
-    "image": "/assets/images/maloch.jpg"
+    "itemName": "Defense Barrier pH Cleanser",
+    "itemDescription": "",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "12.00",
+    "image": "/assets/images/defence_cleanser.png"
   },
   {
-    "itemName": "Wooper Plushie",
-    "itemDescription": "A soft, squshy, and adorable plushie of the Pokemon Wooper.",
-    "category": ["plushies"],
-    "price": "30.00",
-    "image": "/assets/images/wooper_plushie.jpg"
+    "itemName": "Wonder Releaf Centella Daily Sun Lotion SPF50+ PA++++",
+    "itemDescription": "",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "21.50",
+    "image": "/assets/images/centella_sunlotion.png"
   },
   {
-    "itemName": "Spiderman Comic",
-    "itemDescription": "Its a comic of your famliy neighborhood Spiderman.",
-    "category": ["comics", "featured"],
-    "price": "50.00",
-    "image": "/assets/images/spiderman.jpg"
+    "itemName": "Wonder Releaf Centella Mini Kit Unscented",
+    "itemDescription": "",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "17.20",
+    "image": "/assets/images/centella_minikit.png"
   },
   {
-    "itemName": "LIFE Board Game",
-    "itemDescription": "A board game where you pretend that life is going well.",
-    "category": ["board-games"],
-    "price": "25.00",
-    "image": "/assets/images/life.jpg"
+    "itemName": "Wonder Releaf Centella Toner Unscented",
+    "itemDescription": "",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "24.00",
+    "image": "/assets/images/centella_toner.png"
   },
   {
-    "itemName": "Pokemon Pearl",
-    "itemDescription": "In the Sinnoh region, there are two Pokemon that symbolize the region. They appear in the Sinnoh reigon's myths and old folklore. One is called Dialga, and is said to have the power to control time. The other is called Palkia, who is said to have the ability to distort space. The sinister organization called Team Galaxy is trying to rule the region by utilizing these two Pokemon's power. During your adventure to complete your Pokedex and become the Champion, these two Pokemon, and Team Galaxy, will intertwine into the story and lead you on a fantastic journey across the Sinnoh region.",
-    "category": ["video-games"],
-    "price": "60.00",
-    "image": "/assets/images/pokemon_pearl.jpg"
+    "itemName": "Wonder Releaf Centella Serum Unscented",
+    "itemDescription": "",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "23.00",
+    "image": "/assets/images/centella_serum.png"
   },
   {
-    "itemName": "Charmander Plushie",
-    "itemDescription": "This cute and cuddly 24 inch Charmander Plush is ready to join you on your next Pokémon adventure! Charmander doesn't get bigger or better than this super-sized plush made with material that makes it perfect to play with and cuddle! With details that make it look it jumped right out of the smash-hit Pokémon Animated Series, the 24 inch Charmander Plush is the perfect gift for any Pokémon fan! Gotta Catch Em All!™ An Officially licensed Pokémon product from Wicked Cool Toys, a Jazwares Company! For ages 2 and up.",
-    "category": ["plushies"],
-    "price": "40.00",
-    "image": "/assets/images/charmander_plushie.jpg"
+    "itemName": "Wonder Releaf Centella Cream Unscented",
+    "itemDescription": "",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "21.00",
+    "image": "/assets/images/centella_cream.png"
   },
   {
-    "itemName": "Pokemon Diamond",
-    "itemDescription": "In the Sinnoh region, there are two Pokemon that symbolize the region. They appear in the Sinnoh reigon's myths and old folklore. One is called Dialga, and is said to have the power to control time. The other is called Palkia, who is said to have the ability to distort space. The sinister organization called Team Galaxy is trying to rule the region by utilizing these two Pokemon's power. During your adventure to complete your Pokedex and become the Champion, these two Pokemon, and Team Galaxy, will intertwine into the story and lead you on a fantastic journey across the Sinnoh region.",
-    "category": ["video-games"],
-    "price": "60.00",
-    "image": "/assets/images/pokemon_diamond.jpg"
+    "itemName": "Wonder Releaf Centella Eye Cream Unscented",
+    "itemDescription": "",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "16.00",
+    "image": "/assets/images/centella_eyecream.png"
   },
   {
-    "itemName": "Pokemon Platinum",
-    "itemDescription": "Play Pokemon Platinum Version on Nintendo DS. As the story unfolds, players will encounter the mysterious new Distortion World, an area unlike any seen in a Pokemon video game before. The Battle Frontier area (first introduced in Pokemon Emerald) has been added to Sinnoh, containing five new Battle Facilities for Trainers to challenge, each with its own special rules. Players can explore the new Wi-Fi Plaza a virtual Pokemon amusement park filled with activities, including three new mini-games where up to 4 players can compete at once.",
-    "category": ["video-games", "featured"],
-    "price": "60.00",
-    "image": "/assets/images/pokemon_platinum.jpg"
+    "itemName": "1025 Dokdo Toner",
+    "itemDescription": "Outstanding toner exfoliates dead skin cells and leaves skin replenished with long lasting moisture. Experience simple but exceptional skincare everyday.",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "10.00",
+    "image": "/assets/images/1025-dokdo-toner.webp"
   },
   {
-    "itemName": "Mudkip Plushie",
-    "itemDescription": "Full of adventurous charm, this Mudkip Poké Plush is ready to go on a journey! Its big head and tail fins are standing at attention, topping off a fun look featuring embroidery and soft fabric. Where will you go with Mudkip?",
-    "category": ["plushies"],
-    "price": "40.00",
-    "image": "/assets/images/mudkip_plushie.jpg"
+    "itemName": "1025 Dokdo Cleanser",
+    "itemDescription": "Slightly acidic (pH 5.0 - 6.0), foamy and creamy cleanser purifies and removes excess sebum without over-drying. It clears away impurities and helps the skin maintain a healthy moisture balance.",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "17.00",
+    "image": "/assets/images/1025-dokdo-cleanser.webp"
   },
   {
-    "itemName": "Miraculous: Tales of Ladybug & Cat Noir (Manga) 1",
-    "itemDescription": "Marinette is your typical high school student: cheery and a little clumsy. Not so typical? She can transform into a superhero! As the confident, masked Ladybug, Marinette guards the streets of the City of Lights alongside Cat Noir, another superhero who, unbeknownst to Marinette, is her classmate Adrian, and her crush! Adrian doesn't know who Ladybug is, either, but he's crushing on her, too. Supervillains, school, and criss-crossed crushes? As if being a teenager and a crime fighting superhero wasn’t enough!",
-    "category": ["comics", "featured"],
-    "price": "9.00",
-    "image": "/assets/images/miraculous1.jpg"
+    "itemName": "1025 Dokdo Cream",
+    "itemDescription": "Hydration powerhouse packs a full dose of hydration into the skin. Gentle but optimal care for tired and irritated skin for long-lasting hydration.",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "36.00",
+    "image": "/assets/images/1025-dokdo-cream.webp"
   },
   {
-    "itemName": "Miraculous: Tales of Ladybug & Cat Noir (Manga) 2",
-    "itemDescription": "When Marinette and Adrien aren’t living their normal lives as high school students, they're secretly saving Paris as the superhero duo Ladybug and Cat Noir! But the sinister Hawk Moth will stop at nothing to take their Miraculouses. Using the power of his akuma, he takes advantage of negative emotions and transforms ordinary citizens into his loyal servants. His latest victim is Nathaniel, one of Marinette and Adrien's classmates who goes on a rampage as the Evillustrator! Meanwhile, Adrien's father starts to suspect that Cat Noir might actually be his own son...",
-    "category": ["comics"],
-    "price": "9.00",
-    "image": "/assets/images/miraculous2.jpg"
-  },
-  {
-    "itemName": "Stardew Valley: The Board Game",
-    "itemDescription": "Stardew Valley: The Board Game is a cooperative game where players work together to restore the Valley. They accomplish this by growing crops, raising animals, expanding their farm and collecting resources from across the Valley. By befriending the local villagers, players earn hearts that allow them to reveal hidden goals. Only by working together will they keep Joja Corporation from moving in and spoiling everything. So choose your profession and pick up your starting tool; Stardew Valley needs you!",
-    "category": ["board-games"],
-    "price": "65.00",
-    "image": "/assets/images/stardew_valley.jpg"
-  },
-  {
-    "itemName": "Octopath Traveler",
-    "itemDescription": "Eight travelers. Eight adventures. Eight roles to play. Embark on an epic journey across the vast and wondrous world of Orsterra and discover the captivating stories of each of the eight travelers.",
-    "category": ["video-games"],
-    "price": "60.00",
-    "image": "/assets/images/octopath1.jpg"
-  },
-  {
-    "itemName": "Octopath Traveler II",
-    "itemDescription": "The story takes place in Solistia, a land comprising an eastern and western continent divided by the sea. It is a bustling era, wherein large vessels navigate busy sea routes and the power of steam gives birth to new technologies. Some people thrill to glamorous stars of the stage and industry, while others are brought to tears by war, plague, and poverty. In this faraway realm, eight travelers hailing from different regions venture forth for their own reasons. Step into their shoes and explore the land as you see fit, using their unique talents to aid you along your journey. Embark on an adventure all your own.",
-    "category": ["video-games", "featured"],
-    "price": "60.00",
-    "image": "/assets/images/octopath2.jpg"
-  },
-  {
-    "itemName": "Bravely Default",
-    "itemDescription": "Square Enix's highly-acclaimed fantasy RPG brings deep, strategic combat to the Nintendo 3DS™ system in an ambitious game that bolsters its turn-based combat with a compelling new risk/reward system RPG fans will obsess over. Explore Luxendarc as Tiz and other memorable characters on a visually stunning quest to restore balance to the world. Hand-drawn 3D backgrounds and a rousing score bring Luxendarc to life. Enter a brave new world of turn-based combat! Time your turns tactically and turn the tides in your favor with the new Brave and Default system. Flex your strategic muscle by combining more than twenty jobs with hundreds of different abilities. Summon friend's characters to fight by your side, or borrow their abilities*. Recruit citizens with the StreetPass feature to rebuild Tiz's destroyed village. Be part of the community in this fresh take on the single player RPG!",
-    "category": ["video-games", "featured"],
-    "price": "40.00",
-    "image": "/assets/images/bravely.jpg"
-  },
-  {
-    "itemName": "Stardew Valley White Chicken Plushie",
-    "itemDescription": "You know that feeling when you see a chicken, and you just think it's so cute you wish you could pick it up and give it a good squeeze? Your days of wishing have ended! Ultra soft, squishy, and (of course) cuddly, our White Chicken Pillow Plushes appeared one night after a witch left a few mysterious eggs in our warehouse!",
-    "category": ["plushies"],
-    "price": "35.00",
-    "image": "/assets/images/white_chicken.jpg"
-  },
-  {
-    "itemName": "Stardew Valley Brown Chicken Plushie",
-    "itemDescription": "You know that feeling when you see a chicken, and you just think it's so cute you wish you could pick it up and give it a good squeeze? Your days of wishing have ended! Ultra soft, squishy, and (of course) cuddly, our Brown Chicken Pillow Plushes appeared one night after a witch left a few mysterious eggs in our warehouse!",
-    "category": ["plushies"],
-    "price": "35.00",
-    "image": "/assets/images/brown_chicken.jpg"
-  },
-  {
-    "itemName": "Stardew Valley Void Chicken Plushie",
-    "itemDescription": "You know that feeling when you see a chicken, and you just think it's so cute you wish you could pick it up and give it a good squeeze? Your days of wishing have ended! Ultra soft, squishy, and (of course) cuddly, our Void Chicken Pillow Plushes appeared one night after a witch left a few mysterious eggs in our warehouse!",
-    "category": ["plushies"],
-    "price": "35.00",
-    "image": "/assets/images/void_chicken.jpg"
-  },
-  {
-    "itemName": "Monopoly Game: Pokémon Johto Edition",
-    "itemDescription": "Gotta catch 'em all in this special Pokémon: Johto Edition of the Monopoly game. Join Pikachu, Totodile, Pichu, and other favorite characters on exciting adventures through the Johto region. Travel through all 8 Gyms and battle Gym Leader Pokémon. Trainer Battle and Professor Elm cards can reward players for Pokémon encounters, or bring unexpected surprises. Buy, sell, and trade Poké Marts and Pokémon Centers with other players to a get a powerful Pokémon team and win the game! Short on time? Check out the Speed Rules for faster gameplay. Copyright Pokémon Company International USAopoly is a trademark of USAopoly, Inc. The Hasbro Gaming, Parker Brothers, and Monopoly names and logos, the distinctive design of the gameboard, the four corner squares, the Mr. Monopoly name and character, as well as each of the distinctive elements of the board and playing pieces are trademarks of Hasbro for its property trading game and game equipment.",
-    "category": ["board-games"],
-    "price": "50.00",
-    "image": "/assets/images/monopoly_pokemon.jpg"
-  },
-  {
-    "itemName": "Pokemon Adventures Vol. 16",
-    "itemDescription": "Ruby and Sapphire go their separate ways to achieve their dreams in just eighty days! But their paths keep crossing... While Ruby seeks a beautiful new Pokémon in Dewford Town to help him win Pokémon Contests, he runs into Sapphire who is challenging the local Gym Leader to improve her Pokémon battle skills. Together, our intrepid Trainers attempt to deliver an important letter. What does it say, and who is the mysterious recipient...?Plus, can Ruby and Sapphire prevent evil Team Magma from stealing a strange new technology?!",
-    "category": ["comics"],
-    "price": "9.00",
-    "image": "/assets/images/pokemon16.jpg"
-  },
-  {
-    "itemName": "House of M Omnibus",
-    "itemDescription": "The unstable Scarlet Witch has rewritten reality - into a world where Magneto is king! In this House of M, mutants are Earth's dominant species, living glamorous lives and reigning over the oppressed Sapien class. But Wolverine, now a member of Magnus' peacekeeping force S.H.I.E.L.D., remembers how the world used to be.",
-    "category": ["comics"],
-    "price": "40.00",
-    "image": "/assets/images/house_of_m.jpg"
-  },
-  {
-    "itemName": "D&D Dungeon Master's Guide",
-    "itemDescription": "Kick off your campaign with a thrilling introduction, complicate matters with moral quandaries, and end it all in an epic finale. This book will teach you how to craft compelling plots and create balanced combat encounters that are as easy or deadly as you want them to be—from fresh level 1 characters picking a bar fight to a level 20 party battling a dragon god.",
-    "category": ["board-games"],
-    "price": "30.00",
-    "image": "/assets/images/dm_guide.jpg"
-  },
-  {
-    "itemName": "D&D Monster Manual",
-    "itemDescription": "Fill your Dungeons & Dragons games with pesky goblins and mighty dragons for players to battle or beguile, outwit or outrun. Horrifying mind flayers, shimmering unicorns, jiggly gelatinous cubes—this book contains over 150 ready-to-play, easy-to-run monsters of all levels to challenge heroes throughout their adventuring careers.",
-    "category": ["board-games"],
-    "price": "20.00",
-    "image": "/assets/images/monster_manual.jpg"
-  },
-  {
-    "itemName": "Baldur's Gate III",
-    "itemDescription": "Role-playing video game developed and published by Belgian game developer Larian Studios. The game is the third main installment in the Baldur's Gate series, based on the tabletop fantasy role-playing system of Dungeons & Dragons.",
-    "category": ["video-games"],
-    "price": "60.00",
-    "image": "/assets/images/baldurs_gate3.jpg"
-  },
-  {
-    "itemName": "Lil Ragnaros Plushie",
-    "itemDescription": "Bring the wrath of the Molten Core and the Firelands from Azeroth to your couch",
-    "category": ["plushies"],
-    "price": "15.00",
-    "image": "/assets/images/lil_ragnaros.jpg"
+    "itemName": "Birch Moisturizing Cream",
+    "itemDescription": "A gentle, well-rounded moisturizer for total moisture care and skin barrier strengthening.",
+    "itemRegion": "Korean",
+    "category": ["skincare"],
+    "price": "36.00",
+    "image": "/assets/images/birch-moisturizing-cream.webp"
   }
 ]

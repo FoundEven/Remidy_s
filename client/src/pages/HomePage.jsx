@@ -17,14 +17,20 @@ const HomePage = () => {
     return <p>No featured items available.</p>;
   }
 
-  const featuredItems = data.items.filter((item) =>
-    item.category.includes("featured")
+  const iceItems = data.items.filter((item) =>
+    item.itemRegion.includes("Iceland")
+  );
+
+  const KoreanItems = data.items.filter((item) =>
+    item.itemRegion.includes("Korean")
   );
 
   return (
     <section>
-      <h2 className="my-6 text-4xl text-center font-bold">Featured Items</h2>
-      <Carousel items={featuredItems} />
+      <h2 className="my-6 text-4xl text-center font-bold">Iceland</h2>
+      <Carousel items={iceItems} />
+      <h2 className="my-6 text-4xl text-center font-bold">Korean</h2>
+      <Carousel items={KoreanItems} />
     </section>
   );
 };

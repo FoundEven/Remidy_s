@@ -29,7 +29,7 @@ const Nav = ({ isVisible }) => {
               : "hover:text-cyan-400 duration-200"
           }
         >
-          <Link to="/categories/Comics">Skincare</Link>
+          <Link to="/Skincare">Skincare</Link>
         </li>
         <li
           className={
@@ -38,7 +38,7 @@ const Nav = ({ isVisible }) => {
               : "hover:text-cyan-400 duration-200"
           }
         >
-          <Link to="/categories/Board-Games">Bodycare</Link>
+          <Link to="/Bodycare">Bodycare</Link>
         </li>
       </ul>
     </nav>

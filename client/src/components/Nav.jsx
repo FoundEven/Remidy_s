@@ -6,27 +6,27 @@ const Nav = ({ isVisible }) => {
   return (
     <nav
       className={
-        isVisible ? "flex bg-cyan-600 p-2" : "hidden lg:block bg-cyan-600 p-2"
+        isVisible ? "flex border border-black bg-emerald-100 p-2" : "hidden border border-black lg:block bg-emerald-100 p-2"
       }
     >
       <ul
         id="navbar"
-        className="flex flex-col items-center gap-3 lg:gap-0 lg:flex-row justify-evenly text-white text-3xl lg:text-xl font-medium w-full"
+        className="flex flex-col items-center gap-3 lg:gap-0 lg:flex-row justify-evenly text-neutral-950 text-3xl lg:text-xl font-medium w-full"
       >
         <li
           className={
             currentPage === "/"
-              ? "text-cyan-400"
-              : "hover:text-cyan-400 duration-200"
+              ? "text-neutral-950"
+              : "hover:text-neutral-950 duration-200"
           }
         >
-          <Link to="/">HOME</Link>
+          <Link to="/">Home</Link>
         </li>
         <li
           className={
             currentPage === "/categories/Comics"
-              ? "text-cyan-400"
-              : "hover:text-cyan-400 duration-200"
+              ? "text-neutral-950"
+              : "hover:text-neutral-950 duration-200"
           }
         >
           <Link to="/Skincare">Skincare</Link>
@@ -34,8 +34,8 @@ const Nav = ({ isVisible }) => {
         <li
           className={
             currentPage === "/categories/Board-Games"
-              ? "text-cyan-400"
-              : "hover:text-cyan-400 duration-200"
+              ? "text-neutral-950"
+              : "hover:text-neutral-950 duration-200"
           }
         >
           <Link to="/Bodycare">Bodycare</Link>

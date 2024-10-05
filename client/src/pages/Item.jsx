@@ -35,7 +35,7 @@ const Item = () => {
     return <p>No items available.</p>;
   }
 
-  const { itemName, itemDescription, category, image } = data1.item;
+  const { itemName, itemDescription, category, image, price } = data1.item;
 
   const relatedItems = data2.items.filter((item) =>
     item.category.includes(category[0])
@@ -69,9 +69,10 @@ const Item = () => {
             alt="Item"
           />
         </div>
-        <div className="flex flex-col items-left w-full md:w-1/2 p-5 md:p-0">
+        <div className="flex flex-col  items-left w-full md:w-1/2 p-5 md:p-0">
           <h2 className="text-3xl 2xl:text-4xl font-medium mb-5">{itemName}</h2>
           <p className="text-lg xl:text-xl indent-5">{itemDescription}</p>
+          <h1 className="text-1xl 2xl:text-2xl font-medium mb-5">${price}</h1>
         </div>
       </section>
 
